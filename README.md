@@ -12,8 +12,8 @@ The idea is to:
 
 ## Inspiration
 
-[Picodotdev java ddd hexagonal example](https://github.com/picodotdev/blog-ejemplos/tree/master/DomainDrivenDesignHexagonalArchitecture)
-[Julien Topçu hexagonal architecture example](https://julien-topcu.medium.com/?p=7e107c6b555c)
+- [Picodotdev java ddd hexagonal example](https://github.com/picodotdev/blog-ejemplos/tree/master/DomainDrivenDesignHexagonalArchitecture)
+- [Julien Topçu hexagonal architecture example](https://julien-topcu.medium.com/?p=7e107c6b555c)
 
 ## Suggestions
 
